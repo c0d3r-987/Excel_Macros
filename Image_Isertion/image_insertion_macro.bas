@@ -1,7 +1,7 @@
 ' ============================================================================
 ' Microsoft Excel VBA Image Insertion - Multiple Pictures, Multi-Row
 ' This macro inserts images horizontally with automatic row wrapping
-' First row: B5 to BJ5, Second row: Q29 onwards, etc.
+' First row: B5 to BJ5, Second row: Q29 onwards, etc
 ' ============================================================================
 
 Sub InsertAndFit_Multiple_Images_MultiRow()
